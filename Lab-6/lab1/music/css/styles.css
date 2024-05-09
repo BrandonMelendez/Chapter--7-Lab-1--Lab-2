@@ -87,7 +87,7 @@ nav li {
 
 nav li a {
     display: block;
-    color: #fff;
+    color: #ffffff;
     text-align: center;
     padding: 0.5em 1em;
     text-decoration: none;
@@ -208,7 +208,7 @@ footer a {
     }
 
     /*Tablet viewport: style rule for map*/
-    map {
+    .map {
         width: 500px;
         height: 450px;
     }
@@ -235,11 +235,12 @@ footer a {
     /*Desktop viewportL style rules for nav area*/
     nav li a {
         padding: 0.5em 1.5em;
+        color: #f6eee4;
     }
 
     nav li a:hover {
-        color: #373684;
-        background: #e5e9fc;
+        color: #ffffff;
+        background: #ffffff;
     }
 
     /*Desktop viewport: style rules for main content*/
